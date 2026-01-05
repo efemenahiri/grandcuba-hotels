@@ -1,0 +1,7 @@
+{
+  "name": "Grand Cuba Hotel & Suites",
+  "description": "A luxurious and modern hotel website for Grand Cuba Hotel & Suites in Abraka, Delta State, Nigeria, featuring high-end design, room booking, and a Gemini-powered concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
